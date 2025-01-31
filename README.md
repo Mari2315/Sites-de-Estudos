@@ -1,2 +1,2 @@
 # Sites-de-Estudos
-Ajudas ultilizadas:
+Ajudas ultilizadas: IA, Youtube.
